@@ -1,1 +1,4 @@
-# Lung-Cancer-Detection-using-with-KNN-NCA-XG-Boosting-Ada-boosting
+# Lung-Cancer-Recognition-Using-CT-Scan-with-NCA-XG-Boosting-KNN
+
+
+https://github.com/AishaFar/Lung-Cancer-Recognition-Using-CT-Scan-with-NCA-XG-Boosting-KNN
